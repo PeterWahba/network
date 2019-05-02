@@ -1,6 +1,6 @@
 {
-  "network_ver": "30042019",
-  "network_date": "30/04/2019",
+  "network_ver": "02052019",
+  "network_date": "02/05/2019",
   "Providers": [
     {
       "ID": "M717M",
@@ -77689,8 +77689,8 @@
       "Region_EN": "Suez",
       "Type_AR": "الأطباء",
       "Type_EN": "Physicians and surgeons",
-      "Speciality_AR": "أنف و أذن و حنجرة",
-      "Speciality_EN": "Ear, Nose, and Throat",
+      "Speciality_AR": "جراحة الكلى و المسالك البولية",
+      "Speciality_EN": "Urology",
       "network": [
         "Blue",
         "Green",
