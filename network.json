@@ -1,6 +1,6 @@
 {
-  "network_ver": "30122019",
-  "network_date": "30/12/2019",
+  "network_ver": "24012020",
+  "network_date": "24/01/2020",
   "Providers": [
     {
       "ID": "M1000M",
@@ -35927,29 +35927,6 @@
       "Fax": "",
       "Lat": "24.086777",
       "Lng": "32.898653"
-    },
-    {
-      "ID": "M2945M",
-      "Name_AR": "د.عادل محمد عبدالعليم محمد",
-      "Name_EN": "Dr. Adel Mohamed Abdel Alim",
-      "Address_AR": "395شارع الجيش_برج الياسمين_ الدور الرابع",
-      "Address_EN": "395 Al-Jish Street - Jasmine Tower - Fourth Floor",
-      "Governorate_AR": "السويس",
-      "Governorate_EN": "Suez",
-      "Region_AR": "السويس",
-      "Region_EN": "Suez",
-      "Type_AR": "الأطباء",
-      "Type_EN": "Physicians and surgeons",
-      "Speciality_AR": "نساء و توليد",
-      "Speciality_EN": "Women's health",
-      "network": [ "Blue", "Green","La Passage"],
-      "Online": "No",
-      "Phone_1": "0623422883",
-      "Phone_2": "01223665335",
-      "Phone_3": "",
-      "Fax": "",
-      "Lat": "",
-      "Lng": ""
     },
     {
       "ID": "M2946M",
