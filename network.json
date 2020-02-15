@@ -1,6 +1,6 @@
 {
-  "network_ver": "12022020",
-  "network_date": "12/02/2020",
+  "network_ver": "15022020",
+  "network_date": "15/02/2020",
   "Providers": [
     {
       "ID": "3285",
@@ -68145,7 +68145,7 @@
       "network": [ "Blue", "Green","La Passage"],
       "Online": "Yes",
       "Phone_1": "19989",
-      "Phone_2": "01002168714",
+      "Phone_2": "",
       "Phone_3": "",
       "Fax": "",
       "Lat": "",
