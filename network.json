@@ -1,6 +1,6 @@
 {
-  "network_ver": "24082020",
-  "network_date": "24/08/2020",
+  "network_ver": "31082020",
+  "network_date": "31/08/2020",
   "Providers": [
     {
       "ID": "9",
@@ -82773,29 +82773,6 @@
       "network": [ "Blue", "Green", "DiscountCard","La Passage"],
       "Phone_1": "035300882",
       "Phone_2": "15074",
-      "Phone_3": "",
-      "Fax": "",
-      "Lat": "",
-      "Lng": "",
-      "Note": ""
-    },
-    {
-      "ID": "6061",
-      "Name_AR": "مستشفى نسائم",
-      "Name_EN": "Nasaem Hospital",
-      "Address_AR": "ش التسعين الجنوبى",
-      "Address_EN": "El Teseen El Ganoby St.",
-      "Governorate_AR": "القاهرة",
-      "Governorate_EN": "Cairo",
-      "Region_AR": "القاهرةالجديدة",
-      "Region_EN": "New Cairo",
-      "Type_AR": "المستشفيات",
-      "Type_EN": "Hospitals",
-      "Speciality_AR": "متعددة التخصصات",
-      "Speciality_EN": "Multidisciplinary",
-      "network": [ "Blue", "Green","La Passage"],
-      "Phone_1": "16522",
-      "Phone_2": "0228123510",
       "Phone_3": "",
       "Fax": "",
       "Lat": "",
