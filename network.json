@@ -1,6 +1,6 @@
 {
-  "network_ver": "19102020",
-  "network_date": "19/10/2020",
+  "network_ver": "26102020",
+  "network_date": "26/10/2020",
   "Providers": [
     {
       "ID": "2786",
@@ -45411,30 +45411,6 @@
       "Note": ""
     },
     {
-      "ID": "2125",
-      "Name_AR": "صيدلية مستشفى النور",
-      "Name_EN": "El Nour Hospital Pharmacy",
-      "Address_AR": "9 ش طلعت حرب - خلف مجمع المحاكم",
-      "Address_EN": "9 Talaat Harb St., Behind Courts Complex",
-      "Governorate_AR": "الغربية",
-      "Governorate_EN": "Gharbeya",
-      "Region_AR": "المحلة الكبرى",
-      "Region_EN": "El Mahala El Kobra",
-      "Type_AR": "الصيدليات",
-      "Type_EN": "Pharmacies",
-      "Speciality_AR": "صيدلية",
-      "Speciality_EN": "Pharmacies",
-      "network": [ "Blue", "Green","La Passage"],
-      "Online": "No",
-      "Phone_1": "0402225070",
-      "Phone_2": "",
-      "Phone_3": "",
-      "Fax": "",
-      "Lat": "30.970248",
-      "Lng": "31.171065",
-      "Note": ""
-    },
-    {
       "ID": "",
       "Name_AR": "فرست سكان",
       "Name_EN": "Firstٍ Scan",
@@ -45456,6 +45432,31 @@
       "Fax": "",
       "Lat": "30.715573",
       "Lng": "31.261145",
+      "Note": ""
+    },
+
+    {
+      "ID": "1132",
+      "Name_AR": "عيادة ال فوزى للاسنان	",
+      "Name_EN": "Al Fawzy Dental Clinic	",
+      "Address_AR": "10 ش لطفى حسونة - متفرع من ميدان الجلاء - امام قسم شرطة الدقى	",
+      "Address_EN": "10 Lotfy Hassouna St. - off El Galaa Square - in front of Dokki Police Station	",
+      "Governorate_AR": "الجيزة",
+      "Governorate_EN": "Giza",
+      "Region_AR": "الدقي",
+      "Region_EN": "Dokki",
+      "Type_AR": "الأسنان",
+      "Type_EN": "Dentistry",
+      "Speciality_AR": "طب وجراحة الفم والأسنان	",
+      "Speciality_EN": "Dentistry",
+      "network": [ "Blue", "Green","La Passage", "DiscountCard"],
+      "Online": "No",
+      "Phone_1": "0233356786",
+      "Phone_2": "01114444190",
+      "Phone_3": "",
+      "Fax": "",
+      "Lat": "",
+      "Lng": "",
       "Note": ""
     },
     {
