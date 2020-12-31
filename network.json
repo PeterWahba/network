@@ -1,5 +1,5 @@
 {
-  "network_ver": "311220202",
+  "network_ver": "311220203",
   "network_date": "31/12/2020",
   "Providers": 
   [
@@ -12745,8 +12745,8 @@
       "ID": "1445",
       "Name_AR": "صيدلية الثناء",
       "Name_EN": "Alsana Pharmacy",
-      "Address_AR": "تقاطع شارع "45" مع شارع "19" - بجوار مستشفى عقبة بن نافع",
-      "Address_EN": "Intersection of Street "45" with "19" - next to the hospital Aqba Ben Nafi",
+      "Address_AR": "تقاطع شارع '45' مع شارع '19' - بجوار مستشفى عقبة بن نافع",
+      "Address_EN": "Intersection of Street '45' with '19' - next to the hospital Aqba Ben Nafi",
       "Governorate_AR": "الإسكندرية",
       "Governorate_EN": "Alexandria",
       "Region_AR": "العصافرة",
@@ -52983,7 +52983,7 @@
       "ID": "4459",
       "Name_AR": "صيدلية برسوم",
       "Name_EN": "Barsoum Pharmacy",
-      "Address_AR": "ميدان الإسكندرية - مساكن المحمودية القديمة - خلف مدرسة البنات صنايع - بلوك "و"",
+      "Address_AR": "ميدان الإسكندرية - مساكن المحمودية القديمة - خلف مدرسة البنات صنايع - بلوك 'و'",
       "Address_EN": "Alexandria Sq., El Mahmoudiya Old Housing, behind Girl's Industrial School",
       "Governorate_AR": "القاهرة",
       "Governorate_EN": "Cairo",
@@ -74499,8 +74499,8 @@
       "ID": "6014",
       "Name_AR": "مركز فيزيوكير للعلاج الطبيعى",
       "Name_EN": "Physiocare Physiotherapy Center",
-      "Address_AR": "التجمع الخامس مديكال بارك بريمير الدور التاني عياده رقم ٢١٠],
-      "Address_EN": "Fifth Avenue Medical Park Premier second floor clinic No. 210],
+      "Address_AR": "التجمع الخامس مديكال بارك بريمير الدور التاني عياده رقم ٢١٠]",
+      "Address_EN": "Fifth Avenue Medical Park Premier second floor clinic No. 210]",
       "Governorate_AR": "القاهرة",
       "Governorate_EN": "Cairo",
       "Region_AR": "القاهرةالجديدة",
